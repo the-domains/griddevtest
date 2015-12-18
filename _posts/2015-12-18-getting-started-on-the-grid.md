@@ -2,14 +2,22 @@
 title: Getting Started on The Grid
 description: Click the pencil icon in the bottom left to read more...
 author: []
-datePublished: '2015-12-18T10:18:22.514Z'
-dateModified: '2015-10-31T17:28:57.863Z'
+datePublished: '2015-12-18T10:26:07.571Z'
+dateModified: '2015-12-18T10:25:59.116Z'
 sourcePath: _posts/2015-12-18-getting-started-on-the-grid.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: getting-started-on-the-grid/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
