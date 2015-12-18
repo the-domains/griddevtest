@@ -1,0 +1,28 @@
+name: GridDevTest
+favicon: null
+layout_spectrum: 0.5433828916866332
+typography_spectrum: 0.30710840062238276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7603612849488854
+  lightness: 0.15702092018909752
+  saturation: 0.30945970374159515
+  rhythmicContrast: 0.5915123396553099
+purpose: []
